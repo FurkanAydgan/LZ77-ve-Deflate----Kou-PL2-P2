@@ -1,6 +1,6 @@
 LZ77 ve DEFLATE Programı Uygulaması
 
-	Bu odlar.txt dosyası, LZ77 ve DEFLATE Programı  Uygulamasıdosyaları projesi koduna aittir. 
+	Bu kodlar.txt dosyası, LZ77 ve DEFLATE Programı  Uygulamasıdosyaları projesi koduna aittir. 
 Bu paket, kod ile aynı dizin içerisinde bulunacaktır.
 
 1-PAKETİN İÇERİĞİ:
