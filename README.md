@@ -1,13 +1,13 @@
 LZ77 ve DEFLATE Programı Uygulaması
 
-	Bu 2_beniOku_180202085_180202086.txt dosyası, LZ77 ve DEFLATE Programı  Uygulamasıdosyaları projesi koduna aittir. 
+	Bu odlar.txt dosyası, LZ77 ve DEFLATE Programı  Uygulamasıdosyaları projesi koduna aittir. 
 Bu paket, kod ile aynı dizin içerisinde bulunacaktır.
 
 1-PAKETİN İÇERİĞİ:
 
-	2_180202085_180202086.txt(Uygulamanızın tüm kodlarını içeren txt dosyası) -- 2_180202085_180202086(orijinal proje dosyası(DEFLATE VE LZ77 barındırır.)) --
-	2_180202085_180202086.pdf(Uygulama rapor dosyası)  --  2_180202085_180202086.zip(Bütün dosyaların arşivlendiği zip dosyası)
-
+	kodlar.txt(Uygulamanızın tüm kodlarını içeren txt dosyası) -- 2_180202085_180202086(orijinal proje dosyası(DEFLATE VE LZ77 barındırır.)) --
+	rapor.pdf(Uygulama rapor dosyası) 
+	
 2-SİSTEM GEREKSİNİMLERİ:
 
 	C Complier olan herhangi bir bilgisayar olması yeterlidir
@@ -24,7 +24,7 @@ Bu iki durumda da kod, herhangi bir hata vermeden, daha önceden belirlenen krit
 
 4- PROGRAMIN ÇALIŞTIRILMASI
 
-	"2_180202085_180202086" dosyasını açıp DEFLATE ve LZ77 programlarının içindeki main.c dosyasını ayrı ayrı açıp çalıştırmanız yeterlidir.
+	" DEFLATE ve LZ77 programlarının içindeki main.c dosyasını ayrı ayrı açıp çalıştırmanız yeterlidir.
 
 
 5-KODU DERLEME:
