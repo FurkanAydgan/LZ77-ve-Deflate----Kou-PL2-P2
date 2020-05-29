@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589719273 source:c:\users\berke\desktop\deflate\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<math.h>
+
